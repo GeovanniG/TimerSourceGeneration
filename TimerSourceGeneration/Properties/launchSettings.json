@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TimerGenenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\TimerSourceGenerationConsole\\TimerSourceGenerationConsole.csproj"
+    }
+  }
+}

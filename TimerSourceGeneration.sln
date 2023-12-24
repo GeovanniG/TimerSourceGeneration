@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerSourceGeneration", "TimerSourceGeneration\TimerSourceGeneration.csproj", "{A79367EF-FCFA-49ED-84D2-3A2B2895B13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerSourceGenerationConsole", "TimerSourceGenerationConsole\TimerSourceGenerationConsole.csproj", "{FC03C1E4-1AA9-45C1-AC10-CFC938A2F8EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79367EF-FCFA-49ED-84D2-3A2B2895B13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79367EF-FCFA-49ED-84D2-3A2B2895B13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79367EF-FCFA-49ED-84D2-3A2B2895B13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79367EF-FCFA-49ED-84D2-3A2B2895B13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC03C1E4-1AA9-45C1-AC10-CFC938A2F8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC03C1E4-1AA9-45C1-AC10-CFC938A2F8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC03C1E4-1AA9-45C1-AC10-CFC938A2F8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC03C1E4-1AA9-45C1-AC10-CFC938A2F8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD690750-DC50-4135-9426-F09F74F15157}
+	EndGlobalSection
+EndGlobal
